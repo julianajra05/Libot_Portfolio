@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portfolio>
+    <home>
+        <name>Juliana Libot, Jra.</name>
+        <photo>/static/images/libot.jpg</photo>
+        <tagline>God is good all the time!</tagline>
+        <location>Nava, Hinunangan, Southern Leyte, Philippines 6607</location>
+        <social>
+            <link url="https://www.facebook.com/juliana.libot">Facebook</link>
+            <link url="https://www.tiktok.com/@bhebheko0550?_t=ZS-8wBNdRoqS0n_r=1">TikTok</link>
+        </social>
+    </home>
+
+    <projects>
+        <project id="1">
+            <title>Arduino Projects</title>
+            <description>We create arduino projects from 1-15 to apply our learnings in arduino.</description>
+            <technologies> Automated plant watering system</technologies>
+            <link>https://github.com/Madelyn246/Project-1-Arduino-</link>
+        </project>
+        <project id="2">
+            <title>Capstone Project</title>
+            <description>Compilation of our capstone files.</description>
+            <technologies>HTML, CSS, PHP, MYSQL</technologies>
+            <link>https://github.com/Madelyn246/Capstone-Files</link>
+        </project>
+        <project id="3">
+            <title>Portfolio Website</title>
+            <description>A personal website showcasing my work and skills.</description>
+            <technologies>HTML, CSS, JS, Flask</technologies>
+            <link>https://github.com/Madelyn246/Website-Portfolio</link>
+       
+       
+        </project>
+    </projects>
+
+    <skills>HTML, CSS, BPP</skills>
+    <talents>Dancing,cooking</talents>
+
+    <organizations>
+        <organization>
+            <name>Sari-sari Store</name>
+            <role>Assistant</role>
+            <years>2018 - 2021</years>
+        </organization>
+    </organizations>
+
+    <services>
+        <service id="1">
+            <title>Custom Website Design</title>
+            <description>Create visually appealing and responsive websites using HTML and CSS. Ideal for personal portfolios, small businesses, or blogs.</description>
+        </service>
+        <service id="2">
+            <title>Frontend UI Development</title>
+            <description>Implement pixel-perfect front-end interfaces based on given designs or mockups using HTML/CSS.</description>
+        </service>
+        <service id="3">
+            <title>Personal Recipe Blog Development</title>
+            <description>Build a personal recipe blog or portfolio using your web development skills and passion for cooking. Share recipes, cooking tips, and meal plans with a wider audience.</description>
+        </service>
+    </services>
+
+    <testimonials>
+        <testimonial id="1">
+            <person>Laika Ocado</person>
+            <relation>Classmate</relation>
+            <message>Good at cooking and friendly.</message>
+            <image>/static/images/jhovan.jpg</image>
+        </testimonial>
+        <testimonial id="2">
+            <person>Lady Jane Malaki</person>
+            <relation>Classmate</relation>
+            <message>A good friend and considerate.</message>
+            <image>/static/images/tita.jpeg</image>
+        </testimonial>
+    </testimonials>
+
+    <contact>
+        <email>libotjulianajra@gmail.com</email>
+        <phone>09109044797</phone>
+        <social>
+            <link url="https://www.facebook.com/juliana.libot">Facebook</link>
+            <link url="https://www.tiktok.com/@bhebheko0550?_t=ZS-8wBNdRoqS0n_r=1">TikTok</link>
+        </social>
+    </contact>
+</portfolio>
